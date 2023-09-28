@@ -5,7 +5,7 @@ Student of Computer Science and Software Engineering
 ----------------
 
 I am a professional with experience as an illustrator and 3D artist, but in 2023, I decided to embark on a new direction in my career, becoming a dedicated student in the field of Information Technology. I am at the beginning of this journey. In this space, I share my progress and learning in this new world.
-----------------
+
 
 Estudante de Analize e Desenvolvimento de Sistemas
 ----------------
